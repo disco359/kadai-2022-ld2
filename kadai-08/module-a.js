@@ -2,4 +2,4 @@ const moduleA = () => {
     console.log(Hello, A!)
 }
 
-module export
+module.exports = moduleA
